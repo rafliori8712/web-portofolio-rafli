@@ -165,7 +165,7 @@ export default function Contact() {
 
           {/* GITHUB */}
           <motion.a
-            href="#"
+            href="https://github.com/rafliori8712"
             target="_blank"
             rel="noopener noreferrer"
             initial={{ opacity: 0, y: 30 }}
